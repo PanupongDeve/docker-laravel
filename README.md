@@ -1,4 +1,4 @@
-# docker-laravel
+# docker-laravel5.5
 
 git clone https://github.com/PanupongDeve/docker-laravel.git docker
 
